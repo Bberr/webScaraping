@@ -1,0 +1,89 @@
+{
+    "_id": 105054825,
+    "comment_no": 1,
+    "user": {
+        "mid": 2435530,
+        "name": "สมาชิกหมายเลข 2435530",
+        "link": "/profile/2435530",
+        "avatar": {
+            "large": "https://ptcdn.info/images/avatar_member_default.png",
+            "medium": "https://ptcdn.info/images/avatar_member_default.png",
+            "small": "https://ptcdn.info/images/avatar_member_default.png"
+        },
+        "user_meta": {
+            "user_type": "registered",
+            "verified": false,
+            "icon": {
+                "type": "registered"
+            },
+            "google": {
+                "id": "111838738365053160513",
+                "link": null,
+                "name": "Isaman Sangbumrung"
+            }
+        }
+    },
+    "reply_count": 0,
+    "point": 0,
+    "action_id": {
+        "$ref": "action",
+        "$id": 158285109
+    },
+    "message": "ถ้าอยากเป็น Software Engineer ผมแนะนำ ComSci ที่เป็นสาขาใหม่เลยครับ เพราะว่า ComSci จะตัดบางวิชาที่ไม่จำเป็นสำหรับงาน Softwre Engineer ออกไป (เคมี, เขียนแบบทางวิศวกรรม) รวมถึงวิชาทางไฟฟ้าและ hardware ที่อาจจะไม่ต้องเรียนเหมือนวิศวะคอม ทำให้ ComSci ที่เป็นสาขาใหม่นั้นจะ มีเนื้อหาที่เกี่ยวข้องกับงาน software engineer ที่ตรงกว่าวิศวะคอมครับ<br />\n<br />\nปล.เนื่องจากเป็นสาขาเปิดใหม่ อาจจะมีอาจารย์วิศวะบางท่านไปช่วยสอนด้วยครับ เพราะงั้นเลือกที่ชอบ เลือกที่ใช่ได้เลย เป็นกำลังใจให้ครับ จากศิษย์เก่า วิศวะคอมมทส.",
+    "status": 1,
+    "emotion": {
+        "sum": 0,
+        "latest": [],
+        "like": {
+            "count": 0
+        },
+        "laugh": {
+            "count": 0
+        },
+        "love": {
+            "count": 0
+        },
+        "impress": {
+            "count": 0
+        },
+        "scary": {
+            "count": 0
+        },
+        "surprised": {
+            "count": 0
+        }
+    },
+    "replies": [],
+    "emo_score": 0,
+    "good_bad_vote": {
+        "good_voted": "",
+        "bad_voted": "",
+        "point": 0,
+        "class_score": ""
+    },
+    "topic_status": 1,
+    "email_user": true,
+    "data_ip_email": "223.205.221.239",
+    "data_utime": "05/12/2023 10:47:30",
+    "data_addrtitle": "12 พฤษภาคม 2566 เวลา  10:47:30 น.",
+    "created_time": "1683863250",
+    "ref_reply": "$1$8a.oNd51$bcCI3r4HdrUY5pkppCuPo.",
+    "ref_reply_id": "105054825pantip3g",
+    "ref_cmt_no_report": "cmt-1-105054825",
+    "ref_cmt_report": "$1$8/OWs9a.$pRaWPaU4PQ/LzA1gXtAI20",
+    "first_reply": 1,
+    "last_reply": 5,
+    "nickname_icon_permission": {
+        "email": "",
+        "google": "",
+        "apple": "",
+        "line": "",
+        "facebook": "",
+        "member_vip": "",
+        "sms": "https://ptcdn.info/icon/privilege/ic-pri-phone.png",
+        "id_card": "https://ptcdn.info/icon/privilege/ic-pri-cid.png",
+        "organization": "https://ptcdn.info/icon/privilege/ic-pri-org.png"
+    },
+    "member_id": 2435530,
+    "type": 3
+}
